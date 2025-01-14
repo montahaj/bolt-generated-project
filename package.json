@@ -1,0 +1,14 @@
+{
+      "name": "fintech-landing-page",
+      "private": true,
+      "version": "0.0.0",
+      "scripts": {
+            "dev": "vite"
+      },
+      "dependencies": {
+            "chart.js": "^3.9.1"
+      },
+      "devDependencies": {
+            "vite": "^6.0.7"
+      }
+}
